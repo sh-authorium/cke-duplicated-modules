@@ -2,8 +2,9 @@
 # yarn lockfile v1
 
 
-"@authorium/ckeditor5-plugin-linking-example@../ckeditor5-plugin-linking-example":
-  version "0.0.1"
+"@authorium/ckeditor5-plugin-linking-example@link:../ckeditor5-plugin-linking-example":
+  version "0.0.0"
+  uid ""
 
 "@ckeditor/ckeditor5-adapter-ckfinder@43.1.0":
   version "43.1.0"
