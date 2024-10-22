@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "@authorium/ckeditor5-plugin-linking-example": "link:../ckeditor5-plugin-linking-example",
-    "ckeditor5": "43.1.0"
+    "ckeditor5": "43.1.0",
+    "ckeditor5-premium-features": "43.1.0"
   },
   "packageManager": "yarn@4.3.1"
 }
