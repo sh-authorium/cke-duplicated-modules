@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    {
+      "name": "Plugin linking example",
+      "className": "PluginLinkingExample",
+      "description": "Adds text to the editor.",
+      "path": "src/pluginlinkingexample.ts",
+      "uiComponents": [
+        {
+          "name": "pluginLinkingExampleButton",
+          "type": "Button",
+          "iconPath": "theme/icons/ckeditor.svg"
+        }
+      ]
+    }
+  ]
+}
